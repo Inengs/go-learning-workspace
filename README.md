@@ -1,1 +1,1 @@
-used to learn go and keep progress.
+used to learn go and keep progress of golang.
